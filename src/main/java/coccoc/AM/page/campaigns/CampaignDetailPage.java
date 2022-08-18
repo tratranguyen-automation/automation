@@ -1,2 +1,4 @@
-package coccoc.AM.page.campaigns;public class CampaignDetailPage {
+package coccoc.AM.page.campaigns;
+
+public class CampaignDetailPage {
 }

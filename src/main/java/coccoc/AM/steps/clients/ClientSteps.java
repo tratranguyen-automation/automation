@@ -1,2 +1,4 @@
-package coccoc.AM.steps.clients;public class ClientSteps {
+package coccoc.AM.steps.clients;
+
+public class ClientSteps {
 }

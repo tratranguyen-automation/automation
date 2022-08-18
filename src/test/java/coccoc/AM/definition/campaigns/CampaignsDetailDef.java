@@ -1,2 +1,4 @@
-package coccoc.AM.definition.campaigns;public class CampaignsDetailDef {
+package coccoc.AM.definition.campaigns;
+
+public class CampaignsDetailDef {
 }
